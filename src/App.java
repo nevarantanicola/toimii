@@ -85,7 +85,8 @@ public class App {
      System.out.println("Tulos on " + ((double) numero1 / numero2) + "."); 
 
      
-
+// noniin, sain homman toimimaan, kun oikeat tiedostot olivat toisessa kansiossa. Kaltura kun on alhaalla, niin 
+// toivon, ettei haittaa pelkästään tiedostojen kopiointi oikeaan kansioon. En keksinyt oikein muutakaan keinoa.
     } 
 
 } 
